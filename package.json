@@ -1,6 +1,6 @@
 {
   "name": "react-native-image-zoom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "module": "index",
   "repository": {
@@ -13,7 +13,7 @@
     "url": "https://github.com/ventinus/react-native-image-zoom/issues"
   },
   "homepage": "https://github.com/ventinus/react-native-image-zoom#readme",
-  "dependencies": {
+  "devDependencies": {
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-native": "^0.45.1"
